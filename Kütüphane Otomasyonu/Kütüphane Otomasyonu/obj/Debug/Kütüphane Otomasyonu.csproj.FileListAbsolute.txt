@@ -1,0 +1,38 @@
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csprojAssemblyReference.cache
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEkle.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEkle.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetEkle.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapListele.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDuzenle.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeListele.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDuzenle.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetListele.resources
+C:\Users\berat\source\repos\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Emanetİslem.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe.config
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.exe
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\bin\Debug\Kütüphane Otomasyonu.pdb
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csprojAssemblyReference.cache
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetEkle.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.EmanetListele.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Emanetİslem.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Form1.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapDuzenle.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapEkle.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.KitapListele.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeDuzenle.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeEkle.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane_Otomasyonu.UyeListele.resources
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.exe
+C:\Users\berat\Desktop\Belgeler\BLGM-312- Kütüphane Otomasyonu-Grup-1\Kütüphane Otomasyonu\Kütüphane Otomasyonu\obj\Debug\Kütüphane Otomasyonu.pdb
